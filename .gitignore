@@ -3,3 +3,7 @@
 ################################################################################
 
 *.suo
+/PupHologram/bin
+/PupHologram/obj
+/TestPupHologram/bin
+/TestPupHologram/obj
