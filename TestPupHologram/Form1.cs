@@ -25,7 +25,7 @@ namespace TestPupHologram
         {
             clickCount++;
             PupHologram.PupTopper app = new PupHologram.PupTopper();
-            app.GameChanged("TestGameName" + clickCount.ToString(), "TestManuName", "TestDefault");
+            app.GameChanged("TestGameName" + clickCount.ToString(), "TestManuName", "TestEmu", "TestCust", "TestDefault");
             
         }
 
